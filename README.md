@@ -3,7 +3,7 @@
 ## Anyway, if you know how to, feel free to do whatever you want with my project :)
 ## There were more parts I wanted to add, but once I realized I couldn't bypass this captcha, I stopped coding. (gave up)
 
-<p align="center"><img src="https://github.com/user-attachments/assets/11891f71-f91a-4b1e-8a82-5cb7f1e91393"><img/><p/>
+<p align="center"><img src="https://github.com/user-attachments/assets/cdca5f86-665a-4df7-b44d-c65cd93b3c7d"><img/><p/>
 
 <p align="center"><i>btw,  the code is really messed up<i/><p/>
   
