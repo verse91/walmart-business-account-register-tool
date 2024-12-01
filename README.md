@@ -1,5 +1,5 @@
 # I created this project just for fun!
-## The "Press and hold" captcha beat me. I couldn't solve it or bypass it. I tried undetected-chromedriver, proxies, ...(whatever) but nothing worked, the captcha still appeared randomly.
+## The "Press and hold" captcha beat me. I couldn't solve it or bypass it. I tried undetected-chromedriver, proxies, ...(maybe proxies suck) but nothing worked, the captcha still appeared randomly.
 ## Anyway, if you know how to, feel free to do whatever you want with my project :)
 ## There were more parts I wanted to add, but once I realized I couldn't bypass this captcha, I stopped coding. (gave up)
 
